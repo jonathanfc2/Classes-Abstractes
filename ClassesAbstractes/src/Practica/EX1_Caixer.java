@@ -2,6 +2,7 @@ package Practica;
 
 public class EX1_Caixer {
 	int HoresTreballades;
+	int HoresNoTreballades;
 
 	public EX1_Caixer(String Nom, String CiutatOrigen, String Lloc, int HoresTreballades) {
 		super(Nom, CiutatOrigen, Lloc);
